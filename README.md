@@ -1,1 +1,1 @@
-# View this project at http://jessiemelendres.me/todo/
+View this project at http://jessiemelendres.me/todo/
